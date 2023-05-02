@@ -1,5 +1,5 @@
 # FlyWulf
-2023. 04. 30
+2023. O4. 30
 <br>
 elkezdtem és megcsináltam az alapjait
 <br>
