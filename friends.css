@@ -22,13 +22,28 @@ body{
     display: inline-block;
 }
 
-::-webkit-scrollbar { width: 9px; height: 3px;}
-::-webkit-scrollbar-button {  background-color: #666; }
-::-webkit-scrollbar-track {  background-color: #646464;}
-::-webkit-scrollbar-track-piece { background-color: #00000099;}
-::-webkit-scrollbar-thumb { height: 50px; background-color: #666; border-radius: 3px;}
-::-webkit-scrollbar-corner { background-color: #646464;}
-::-webkit-resizer { background-color: #666;}
+::-webkit-scrollbar {
+     width: 9px; height: 3px;
+}
+::-webkit-scrollbar-button {  
+    background-color: #66666600; 
+}
+::-webkit-scrollbar-track {
+      background-color: #64646400;
+    }
+::-webkit-scrollbar-track-piece { 
+    background-color: #00000074;
+    border-radius: 15px;
+}
+::-webkit-scrollbar-thumb { 
+    height: 50px; background-color: #666666; border-radius: 3px;
+}
+::-webkit-scrollbar-corner { 
+    background-color: #646464;
+}
+::-webkit-resizer { 
+    background-color: #66666600;
+}
 
 .text{
     display: inline-block;
@@ -37,4 +52,14 @@ body{
     display: inline-block;
     border-radius: 50%;
     width: 50px;
+}
+.friendadd{
+    background-color: #248046;
+    color: beige;
+    border-color: #00000000;
+    border-radius: 5px;
+    display: flex;
+}
+.cim{
+    display: flex;
 }
