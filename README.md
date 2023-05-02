@@ -12,3 +12,9 @@ megcsináltam hogy valamivel szebb legyen a görgő
 megcsináltam hogy el legyenek választva a barátok egymástól
 <br>
 csináltam profilképeket
+<br>
+megcsináltam a görgőt
+<br>
+töröltem a görgőnel fent és lent a fehér cuccot
+<br>
+csintáltam "Barátok hozzáadása" gombot
