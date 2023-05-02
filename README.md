@@ -18,3 +18,5 @@ megcsináltam a görgőt
 töröltem a görgőnel fent és lent a fehér cuccot
 <br>
 csintáltam "Barátok hozzáadása" gombot
+<br>
+lekerekítettem a görgő tetejét
