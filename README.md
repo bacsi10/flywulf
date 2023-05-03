@@ -20,3 +20,11 @@ töröltem a görgőnel fent és lent a fehér cuccot
 csintáltam "Barátok hozzáadása" gombot
 <br>
 lekerekítettem a görgő tetejét
+<br>
+2023. 05. 02.
+<br>
+elkezdtem a chateket
+<br>
+megcsináltam a chatekhez egy oldalmenüt mint discordnál
+<br>
+megcsináltam hogy világosabb legyen a menüdarab ha feléhúzod az egeret
