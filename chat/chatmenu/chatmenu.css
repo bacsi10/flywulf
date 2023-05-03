@@ -1,0 +1,30 @@
+body{
+    font-family: "Open Sans sans serif", sans-serif;
+    background: #242831;
+    color: whitesmoke;
+    text-decoration: none;
+}
+a{ /*  a linkek ne legyenek kékek és aláhúzva  */
+    color: whitesmoke;
+    text-decoration: none;
+}
+.menu{ /*  A chatekhez a menü  */
+    width: 300px;   
+    height: 690px;
+    display:inline-block;
+}
+.menupiece{ /*  a menü darabja miben van a profilkép és a név és a leírás  */
+    background-color: #1e2129;
+    border-radius: 15px;
+}
+.menupiece:hover{
+    background-color: #363b49;
+}
+.ppic{ /*  Profil kép  */
+    width: 50px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.text{ /*  A profilon levő szöveg  */
+    display: inline-block;
+}
