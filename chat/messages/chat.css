@@ -1,0 +1,16 @@
+body{
+    font-family: "Open Sans sans serif", sans-serif;
+    background: #2d323d;
+    color: whitesmoke;
+}
+.nev{ /*annak a neve akivel beszész, felül látható*/
+    background-color: #1f222a;
+}
+.msgout{ /*ezen mebül vannak az üzenetek*/
+padding-left:1000px;
+background-color: #1e22295c;
+
+}
+.msgin{ /*az üzenet*/
+    padding-left: 5px;
+}
